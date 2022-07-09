@@ -179,12 +179,22 @@ p.banner-style {
 }
 
 .container-category img {
-    width: 400px;
-    height: 350px;
+    width: 350px;
+    height: 300px;
 }
 
 .category-button {
     border-radius: 20px;
     padding: 10px;
     font-size: 1rem;
+}
+
+/* Footer */
+.container-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+    background-color: #272727;
+    color: white;
+    padding: 10px;
 }
